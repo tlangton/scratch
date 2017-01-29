@@ -1,0 +1,79 @@
+/*position.css*/
+
+body{
+	margin: 0 auto;
+/*background: linear-gradient(gray, white);*/
+}
+
+.one {
+	font-family: arial;
+	font-size: 14pt;
+	position: relative;
+	top: 20px;
+	left: 10%;
+	width: 600px;
+	margin-left: 40px;
+	/*float: left;*/
+}
+
+
+.two{
+	display: block;
+	border: 2px black;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	color:white;
+	text-align: center;
+	padding-top: 10px;
+	position: relative;
+	top :-86px;
+	height: 34px;
+	background-color: gray;
+}
+
+.rule{
+	border-top-width: 100px;
+	border-top-color: gray;
+	background: blue;
+}
+
+.hr1 {
+	position: relative;
+	top: -10px;
+	display: block;
+/*	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: 10%;
+	margin-right: 10%;*/
+	border-style: inset;
+	border-width: 1px;
+}
+
+
+@media only screen and (max-width: 1500px) {
+	/*this happens at < 1500 px*/
+	.one { float:left;
+}
+
+}
+
+	@media only screen and (max-width: 1000px) {
+	/*this happens at < 1000 px*/
+	.one { float:none;
+		background-color: #f0f;
+}
+
+
+	@media only screen and (max-width: 500px) {
+		.one {
+			/*this happens at < 500 px*/
+			background-color: #ccc;
+
+		}
+		body{ background-color: #1f1; }
+
+	}
+
+
+
+
