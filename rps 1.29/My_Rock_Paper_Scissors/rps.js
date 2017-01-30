@@ -56,15 +56,15 @@ document.onkeyup = function(event) {
 
   if (winner === "Tie") {
     gameStats.ties += 1;
-    rounds += 1;
+    gameStats.rounds += 1;
   }
   else if (winner === "User") {
     gameStats.userWins += 1;
-    rounds += 1;
+    gameStats.rounds += 1;
   }
   else  {
     gameStats.computerWins += 1;
-    rounds += 1;
+    gameStats.rounds += 1;
   }
 
 
