@@ -1,0 +1,43 @@
+game state
+
+guessedLetter
+guessedLettersList
+solutionEntry
+solution
+solutionLetters
+solutionList
+remainingGuesses
+
+m a d o n n a
+
+[a]
+
+_ a _ _ _ _ a
+
+arrays, strings
+
+
+
+set solution from random member of solutionList
+
+get length of solution string
+make array from solution letters
+make array for solutionEntry, same length filled with _s
+
+guessedLetter
+
+	compare to guessedLetterList
+		if no match
+
+			loop through array
+			if matches, replace the indexed slots in the solutionEntry
+			end loop
+
+			count number of underscores in solutionEntry, end game if there are no underscores
+
+			add to guessedLettersList
+
+		if match, reset guess - error message?
+
+		decriment remainingGuesses
+			end game at 0

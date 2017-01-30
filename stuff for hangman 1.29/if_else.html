@@ -1,0 +1,66 @@
+var hungerLevel = 10;
+
+if(hungerLevel>7) {
+   console.log('Time to eat!');
+
+   }
+else {
+
+  console.log('Let\'s eat later.');
+}
+
+
+
+
+if (a condition) {
+	what gets done ;
+}
+
+else if (a different condition){
+    what gets done instead ;
+    }
+
+(else if is evaluated if preceeding conditions are false)
+
+else {
+	what gets done if all else fails ;
+}
+
+(there is no condition on the "else" -it's a negation of the preceeding "if")
+
+
+OR Operator
+|| between conditions
+
+if (moonPhase === 'full' || foggyNight) {
+    console.log('Howwwwlll!!!');
+    }
+
+&& - and operator
+
+if (moonPhase === 'full' && foggyNight) {
+    console.log('Howwwwlll!!!');
+    }
+
+
+CASE - Switch statements
+
+var moonPhase = 'full';
+
+switch (moonPhase){
+case 'full':
+console.log('Howwwwlll!!!');
+break;
+
+case 'mostly full':
+console.log('Arms and legs');
+break;
+
+case 'mostly new':
+console.log('Back on 2 feet.');
+break;
+
+default:
+console.log ('Invalid moon phase.');
+break;
+}

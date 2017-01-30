@@ -1,0 +1,439 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"al",
+				"vertical-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fl",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 838,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "par",
+		"selected_items":
+		[
+			[
+				"par",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"Packe",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch01",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_04",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_04/bootstrap",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_04/bootstrap/css",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_05",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_05/bootstrap",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/media screen responsive",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/assets",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/assets/css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/bonus",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/bonus/assets",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/scratch/media screen"
+	],
+	"file_history":
+	[
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/h in image/style.css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/scratch/media screen/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/h in image/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/scratch/media screen/index'=.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/assets/css/style.css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/contact.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/recommended-homework-solution/portfolio.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/media screen responsive/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/easier/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/Homework assignments/2 homework 1.28/homework 1 solution/easier/style.css",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_05/bootstrap/index.html",
+		"/Volumes/Data4/Downloads/bootstrap-3.3.7/docs/examples/starter-template/harry.html",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_04/bootstrap/index.html",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_04/bootstrap/css/styles.css",
+		"/Users/tomlangton/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/Users/tomlangton/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tomlangton/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/tomlangton/Library/Application Support/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch01/01_03/bootstrap/css/styles.css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/bootstrap/bootstrap.css",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch02/02_03/bootstrap/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/bootstrap/index.html",
+		"/Users/tomlangton/Desktop/Ex_Files_Bs3EssT/Exercise Files/Ch01/01_03/bootstrap/index.html",
+		"/Volumes/Data4/Downloads/bootstrap-3.3.7/docs/examples/starter-template/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/bootstrap/bs101.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/position.css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/scratch 1.22/index.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/homework1_1.15/01-html-css-three-days/1-Class-Content/1.3/Activities/5-CSS_PositionedLayout/static.css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/homework1_1.15/01-html-css-three-days/1-Class-Content/1.3/Activities/5-CSS_PositionedLayout/main.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/homework1_1.15/01-html-css-three-days/1-Class-Content/1.3/Activities/5-CSS_PositionedLayout/absolute.css",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/homework1_1.15/01-html-css-three-days/1-Class-Content/1.3/Activities/2-FloatExamples/layout-with-float.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/homework1_1.15/01-html-css-three-days/1-Class-Content/1.3/Activities/2-FloatExamples/style.css",
+		"/Users/tomlangton/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+		"/Users/tomlangton/Desktop/Ex_Files_SublimeText3_Basics/roux_website/index.htm",
+		"/Users/tomlangton/Desktop/Ex_Files_SublimeText3_Basics/roux_website/_css/main.css",
+		"/Users/tomlangton/Dropbox/fmpa 15 sn",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/PREWORK_TL/Module-8/My_First_Website.html",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/PREWORK_TL/Module-7/Broken_and_Working_Code/Boo_fixes",
+		"/Volumes/Data4/Downloads/Broken_and_Working_Code (1).zip",
+		"/Volumes/Data4/Users/toml/Documents!/Rutgers Coding Bootcamp 2016-7/PREWORK_TL/Module-6/cheesy poofs project notes"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"md-4",
+			"1em",
+			"img class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								814,
+								814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+							"gutter_color_164":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#CDF0F6.png",
+								"regions":
+								[
+									[
+										164,
+										188
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_189":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#d4d4d4.png",
+								"regions":
+								[
+									[
+										189,
+										219
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "this.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 461.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
